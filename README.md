@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact about me **i play games and watch anime**
 
- [![najm's GitHub stats](https://github-readme-stats.vercel.app/api?username=najm&count private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <h3 align="left">Languages and Tools:</h3>
