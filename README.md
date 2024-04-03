@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm najm</h1>
+<h1 align="center">Hi 👋, I'm najm!</h1>
 <h3 align="center">IT student</h3>
-
-- hi im curenttly student at **lobachevsky unv**
 
 - 🌱 I’m currently learning **java script and react**
 
@@ -9,7 +7,7 @@
 
 - ⚡ Fun fact about me **i play games and watch anime**
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najm)](https://github.com/anuraghazra/github-readme-stats)
+ [![najm's GitHub stats](https://github-readme-stats.vercel.app/api?username=najm&count private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <h3 align="left">Languages and Tools:</h3>
