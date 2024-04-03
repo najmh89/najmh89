@@ -1,4 +1,4 @@
-# Hey there!!
+# Hey you!!
 🔭 I’m currently studying<br>🌱 I’m currently learning java script and react js<br>⚡ Fun fact about me i watch anime and play games
 
 
